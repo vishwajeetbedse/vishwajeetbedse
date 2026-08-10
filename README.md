@@ -21,34 +21,36 @@
 
 <h2 align="center">About Me</h2>
 
-<table>
-<tr>
-<td width="30%" align="center" valign="middle">
-<img src="assets/eye.png" width="240" alt="Eye Graphic">
-</td>
-<td width="70%" valign="top">
-<p>I am a 2nd-year Computer Engineering undergraduate with a strong focus on algorithmic problem-solving and competitive programming.</p>
-<p>I build software projects, scripts, and tools designed to reduce manual labor and optimize QoL.</p>
-<p>Currently expanding my knowledge in distributed systems and low-level system design.</p>
-<p>Always open to collaborating on open-source tooling and performance-critical applications.</p>
-</td>
-</tr>
-</table>
+<div>
+  <br> 
+  <br>
+<img src="assets/eye.png" align="left" width="250" hspace="30" alt="Eye Graphic">
+    <br>
 
-<br>
+<p>2nd-year Computer Engineering undergrad. I write code mostly so I don't have to do things twice.</p>
+<p>I spend my time solving algorithmic bottlenecks, building automation scripts, and figuring out how to optimize developer workflows. I am the kind of person who will gladly spend 10 hours engineering a script to automate a 10-minute manual task.</p>
+<p>Currently descending into the madness of distributed systems and low-level architecture.</p>
+  <br>
+  <br>
+</div>
+
+<br clear="all">
 <hr>
 <br>
 
 <h2 align="center">Top Projects (built to avoid manual labor)</h2>
 
 <div>
-<img src="assets/flame.png" align="right" width="240" hspace="30">
+<img src="assets/flame.png" align="right" width="380" hspace="30" alt="Flame Graphic">
 
-| Project | Description |
-| :--- | :--- |
-| [![S.C.A.L.E](https://img.shields.io/badge/-S.C.A.L.E-black?style=flat-square)](https://github.com/vishwajeetbedse/Submission-Code-Archive-for-LeetCode-Export) | A Google Chrome extension designed to extract and format user submission data from LeetCode into a structured CSV file. This tool bypasses standard API pagination limits to retrieve a complete historical record of user submissions. |
-| [![L.C.S.E](https://img.shields.io/badge/-L.C.S.E-black?style=flat-square)](https://github.com/vishwajeetbedse/LeetcodeCurrentStreakExtension) | A lightweight Google Chrome extension that calculates and displays your Current Streak right next to your Max Streak on your LeetCode profile. |
-| [![F.I.E.R.C.E.](https://img.shields.io/badge/-F.I.E.R.C.E.-black?style=flat-square)](https://github.com/vishwajeetbedse/F.I.E.R.C.E.) | F.I.E.R.C.E. is a modern, high-performance chess engine built from scratch in Rust. It utilizes a strict Bitboard architecture to represent the board and evaluate positions using high-speed bitwise operations. |
+<h3><a href="https://github.com/vishwajeetbedse/Submission-Code-Archive-for-LeetCode-Export"><img src="https://img.shields.io/badge/-S.C.A.L.E-black?style=flat-square" valign="middle"></a></h3>
+<p>A Google Chrome extension designed to extract and format user submission data from LeetCode into a structured CSV file. This tool bypasses standard API pagination limits to retrieve a complete historical record of user submissions.</p>
+
+<h3><a href="https://github.com/vishwajeetbedse/LeetcodeCurrentStreakExtension"><img src="https://img.shields.io/badge/-L.C.S.E-black?style=flat-square" valign="middle"></a></h3>
+<p>A lightweight Google Chrome extension that calculates and displays your Current Streak right next to your Max Streak on your LeetCode profile.</p>
+
+<h3><a href="https://github.com/vishwajeetbedse/F.I.E.R.C.E."><img src="https://img.shields.io/badge/-F.I.E.R.C.E.-black?style=flat-square" valign="middle"></a></h3>
+<p>F.I.E.R.C.E. is a modern, high-performance chess engine built from scratch in Rust. It utilizes a strict Bitboard architecture to represent the board and evaluate positions using high-speed bitwise operations.</p>
 </div>
 
 <br clear="all">
@@ -57,12 +59,8 @@
 
 <h2 align="center">Tech Stack</h2>
 
-<table>
-<tr>
-<td width="30%" align="center" valign="middle">
-<img src="assets/tech-image.png" width="180" alt="Tech Stack Graphic">
-</td>
-<td width="70%" valign="top">
+<div>
+<img src="assets/tech-image.png" align="left" width="210" hspace="40" alt="Tech Stack Graphic">
 
 <h3 align="left">Languages</h3>
 <p align="left">
@@ -103,12 +101,9 @@
 <img src="https://img.shields.io/badge/-Arduino-black?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino" />
 <img src="https://img.shields.io/badge/Notion-black?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
 </p>
+</div>
 
-</td>
-</tr>
-</table>
-
-<br>
+<br clear="all">
 <hr>
 <br>
 
@@ -122,20 +117,19 @@
 <hr>
 <br>
 
-<table>
-<tr>
-<td width="65%" valign="middle">
-<i>"Code is never finished. It only becomes slightly less terrible over time.<br><br>
-Every commit I make is essentially just a small, desperate apology to my future self. Someday I will return to this codebase, look at the architecture I've written, and wonder who let me anywhere near a keyboard."</i>
-</td>
-<td width="35%" align="center" valign="middle">
-<b>Connect</b><br><br>
-<a href="https://github.com/vishwajeetbedse"><img src="https://img.shields.io/badge/GITHUB-black?style=for-the-badge&logo=github&logoColor=white"></a><br>
-<a href="https://linkedin.com/in/vishwajeet-bedse"><img src="https://img.shields.io/badge/LINKEDIN-black?style=for-the-badge&logo=linkedin&logoColor=white"></a><br>
-<a href="https://x.com/VishwajeetBedse"><img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=x&logoColor=white"></a><br>
-<a href="mailto:vishwajeetbedse@gmail.com"><img src="https://img.shields.io/badge/GMAIL-black?style=for-the-badge&logo=gmail&logoColor=white"></a>
-</td>
-</tr>
-</table>
+<div align="center">
+  <i>"Code is never finished. It only becomes slightly less terrible over time.<br><br>
+  Every commit I make is essentially just a small, desperate apology to my future self. Someday I will return to this codebase, look at the architecture I've written, and wonder who let me anywhere near a keyboard."</i>
+</div>
+
+<br><br>
+
+<div align="center">
+  <b>Connect</b><br><br>
+  <a href="https://github.com/vishwajeet-bedse"><img src="https://img.shields.io/badge/GITHUB-black?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://linkedin.com/in/vishwajeet-bedse"><img src="https://img.shields.io/badge/LINKEDIN-black?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://x.com/VishwajeetBedse"><img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=x&logoColor=white"></a>
+  <a href="mailto:vishwajeetbedse@gmail.com"><img src="https://img.shields.io/badge/GMAIL-black?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</div>
 
 <br>
