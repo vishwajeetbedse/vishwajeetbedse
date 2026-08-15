@@ -57,6 +57,23 @@
 <hr>
 <br>
 
+<h2 align="center">Live Deployments</h2>
+
+<div>
+<h3><a href="https://delulugrade.netlify.app/"><img src="https://img.shields.io/badge/-DeluluGrade-black?style=flat-square" valign="middle"></a></h3>
+<p>A helpful website for SVKM NMIMS students to calculate their attendance, figure out the exact marks needed in final exams based on internal scores, and calculate their GPA. Everything runs locally in the browser.</p>
+
+<h3><a href="https://notebook2pdf.vercel.app/"><img src="https://img.shields.io/badge/-Notebook2PDF-black?style=flat-square" valign="middle"></a></h3>
+<p>A simple tool that converts Jupyter Notebooks into clean PDF files. It keeps both the input code and the output results clearly visible without requiring you to install LaTeX.</p>
+
+<h3><a href="https://ieee-ras-nmims-website.vercel.app/"><img src="https://img.shields.io/badge/-Frontend_Showcase-black?style=flat-square" valign="middle"></a></h3>
+<p>A modern and responsive sample landing page built to showcase my frontend development skills and UI/UX design.</p>
+</div>
+
+<br clear="all">
+<hr>
+<br>
+<br>
 <h2 align="center">Tech Stack</h2>
 
 <div>
